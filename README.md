@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePresent83
 - 👀 I’m interested in ...game development 
-- 🌱 I’m currently learning ...1C ,C#
+- 🌱 I’m currently learning ...C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thepresent83@gmail.com
 
